@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Boost",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/Cellar/boost/1.87.0_1/include"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
